@@ -13,20 +13,20 @@ A Google Chrome based twitter bot that uses Reddit API to fetch trending posts f
 
 All the following tasks are completely automated without any manual user input. The script launches Chrome instance and carries out the tasks provided.
 ### Logging in
-![login gif](https://github.com/ashleyteoh/twitter-bot/assets/77535526/59b700e6-cde9-42fb-8ad7-eb53e14e254c)
+![login gif](https://github.com/ashleyteoh/reddit_twitter_bot/blob/master/gifs/login.gif)
 
 
 #### Posting Tweets from top Reddit posts
-![post tweet gif](https://github.com/ashleyteoh/twitter-bot/assets/77535526/0627e489-83f9-478e-8c7d-dcac0d0197c6)
+![post tweet gif](https://github.com/ashleyteoh/reddit_twitter_bot/blob/master/gifs/post_tweet.gif)
 
 
 
 #### Adding likes to tweets on homepage
-![like homepage gif](https://github.com/ashleyteoh/twitter-bot/assets/77535526/d7930753-4265-4efe-a678-234abaea2ca6)
+![like homepage gif](https://github.com/ashleyteoh/reddit_twitter_bot/blob/master/gifs/like_home.gif)
 
 
 #### Adding likes to tweets on search results of some query
-![search](https://github.com/ashleyteoh/twitter-bot/assets/77535526/0f5cae9c-be81-412f-bdec-54d8e8e30460)
+![search](https://github.com/ashleyteoh/reddit_twitter_bot/blob/master/gifs/search.gif)
 
 ## Running project locally:
 1. Insert authentication keys for your twitter account under post_tweet.py
