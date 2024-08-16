@@ -1,13 +1,11 @@
 # Reddit-to-Twitter bot
-A Google Chrome based twitter bot that uses Reddit API to fetch trending posts from subreddits, and post it on twitter. Also undergoes everyday tasks such as logging in, liking and searching tweets, and logging out. Made with Selenium.
+A fully automated Twitter bot built using Selenium and the Reddit API. The bot fetches trending posts from specified subreddits and posts them directly to Twitter via a Google Chrome instance.
 
 ## Features:
-- Logging into your Twitter account
-- Fetching Reddit top reddit posts to autopost
-- Liking tweets of your homepage
-- Searching for some keyword or hashtag
-- Liking tweets of the search results
-- Logging out of your account
+- Automated Login: Securely logs into your Twitter account.
+- Reddit Integration: Fetches top posts from subreddits and automatically shares them on Twitter.
+- Twitter Engagement: Likes tweets on your homepage and searches for specified keywords or hashtags, liking relevant tweets.
+- Session Management: Logs out of your Twitter account after completing tasks.
 
 ## Examples:
 
